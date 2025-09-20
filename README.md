@@ -3,3 +3,5 @@
 [![LICENSE](https://img.shields.io/github/license/Wanna09/Wana.svg?style=flat-square)](https://github.com/Wanna09/Wana/blob/main/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/Wanna09/Wana/all.svg?style=flat-square)](https://github.com/Wanna09/Wana/releases)
+
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Wanna09/Wana/CI/develop?style=flat-square)

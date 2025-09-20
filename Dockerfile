@@ -1,4 +1,4 @@
 FROM openjdk:24
-COPY ./target/classes/com /tmp/com
+COPY ./target/sem-0.1.0.1-jar-with-dependencies.jar /tmp
 WORKDIR /tmp
-ENTRYPOINT ["java","com.napier.sem.Add"]
+ENTRYPOINT ["java", "-jar", "sem-0.1.0.1-jar-with-dependencies.jar"]

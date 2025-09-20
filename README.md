@@ -1,1 +1,1 @@
-# Wana
+![workflow](https://github.com/<Wanna09>/<Wana>/actions/workflows/main.yml/badge.svg)

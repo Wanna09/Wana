@@ -1,1 +1,1 @@
-![workflow](https://github.com/<Wanna09>/<Wana>/actions/workflows/main.yml/badge.svg)
+[![A workflow for my Hello World App](https://github.com/Wanna09/Wana/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Wanna09/Wana/actions/workflows/main.yml)

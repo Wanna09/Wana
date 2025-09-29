@@ -33,7 +33,7 @@ on: push
 jobs:
   build:
     name: Hello world action
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
